@@ -33,7 +33,38 @@ I learned how to:
 - Use `str`, `int`, `float`, and `bool` to store different types of information
 - Use `type()` to identify the data type stored in a variable
 - Use `print()` to display different types of values
+  
 
+## Assignment 3 - Operators and Expressions
+
+In this assignment, I practiced working with numbers, user input, and arithmetic operators in Python.
+
+I learned how to:
+
+- Use `input()` to get numbers from the user
+- Convert user input using `float()`
+- Use `type()` to check the data type of a variable
+- Perform subtraction, multiplication, and division
+- Store calculation results in variables
+- Use `print()` to display the results
+- Test the program with different numeric values
+
+## Assignment 4 - Flow Control and Branching
+
+In this assignment, I learned how to make decisions in Python using conditions and branching.
+
+I learned how to:
+
+- Use `if`, `elif`, and `else` statements
+- Use comparison operators such as `>`, `<`, `>=`, and `==`
+- Determine whether a number is positive, negative, or zero
+- Check whether a person is 18 or older
+- Display different messages based on user input
+- Handle invalid selections using an `else` statement
+- Test different inputs to make sure each branch works correctly
+  
 ## My Progress
 
-It's been a little while since I've worked with coding, but I'm glad to be getting back into it and learning again. 
+It's been a little while since I've worked with coding, but I'm glad to be getting back into it and learning again.
+
+So far, I have practiced variables, data types, user input, arithmetic expressions, and flow control. I am getting more comfortable using VS Code, Git, GitHub, and understanding how Python programs make decisions based on user input.
