@@ -1,3 +1,4 @@
+# Part 1: Positive, Negative, or Zero
 number = input("Enter a number: ")
 number = int(number)
 
@@ -28,6 +29,9 @@ if choice == 1:
 elif choice == 2:
     print("You selected number 2.")
 elif choice == 3:
+    print("You selected number 3.")
+else:
+    print("Invalid selection.")
     print("You selected number 3.")
 else:
     print("Invalid selection.")
