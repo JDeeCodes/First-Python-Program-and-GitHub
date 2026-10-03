@@ -12,7 +12,7 @@ For this assignment, I learned how to:
 - Run Python from the VS Code terminal
 - Use Git to commit my work
 - Publish a project to GitHub
-- 
+  
 ## Assignment 1.1 - Variables
 
 In this assignment, I practiced creating variables and using them to store information.
