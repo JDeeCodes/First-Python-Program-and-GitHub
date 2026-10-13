@@ -13,7 +13,7 @@ num1 = float(num1)
 num2 = float(num2)
 num3 = float(num3)
 
-# Arithmetic expressions
+# Arithmetic expressions 
 print(f"The sum of num1 and num2 is {num1 + num2}.")
 print(f"The difference of num1 and num2 is {num1 - num2}.")
 print(f"The product of num1 and num2 is {num1 * num2}.")
