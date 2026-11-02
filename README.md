@@ -62,9 +62,56 @@ I learned how to:
 - Display different messages based on user input
 - Handle invalid selections using an `else` statement
 - Test different inputs to make sure each branch works correctly
-  
+
+## Assignment 5 - Branching and Age Check
+
+In this assignment, I practiced using conditional statements to make decisions based on the user's age.
+
+I learned how to:
+
+- Use `input()` to ask for the user's age
+- Convert the input to an integer using `int()`
+- Use comparison operators to check the age
+- Use conditional statements to display the appropriate message
+- Test different ages to check that the program works correctly
+
+## Assignment 6 - Lists
+
+In this assignment, I practiced using lists to store and update multiple values.
+
+I learned how to:
+
+- Create a list of fruits
+- Use indexing to access the first, third, and last items
+- Use `input()` to get the user's favorite fruit
+- Use `append()` to add an item
+- Change an item using its index
+- Use `remove()` to remove an item
+- Use `len()` to count the items
+- Test the program with different inputs
+
+## Assignment 7 - Tuples and Sets
+
+In this assignment, I practiced working with tuples and sets and learned how they differ from lists.
+
+I learned how to:
+
+- Create a tuple containing the days of the week
+- Access tuple elements using indexing
+- Use `len()` to count tuple elements
+- Use a `for` loop to display each element
+- Use `if` and `else` to check whether a value exists in a tuple
+- Understand why tuple elements cannot be changed
+- Create a set to store unique colors
+- Use `add()` and `remove()` to update a set
+- Add user input to a set and observe how duplicates are handled
+- Perform union, intersection, and difference operations
+- Commit and push my work to GitHub
+
 ## My Progress
 
 It's been a little while since I've worked with coding, but I'm glad to be getting back into it and learning again.
 
-So far, I have practiced variables, data types, user input, arithmetic expressions, and flow control. I am getting more comfortable using VS Code, Git, GitHub, and understanding how Python programs make decisions based on user input.
+Through Assignment 7, I have practiced variables, data types, user input, arithmetic expressions, flow control, branching, and age checks. I have also worked with lists, tuples, and sets, learning how they differ and when to use each one.
+
+I am getting more comfortable using indexing, loops, and conditions to work with data. I am also learning how to test different inputs, understand errors, and use VS Code, Git, and GitHub to save and share my work.
